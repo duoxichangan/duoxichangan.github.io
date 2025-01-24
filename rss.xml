@@ -2,17 +2,22 @@
 <rss version="2.0">
     <channel>
         <title>Welcome to Duoxichangan&#39; Blog</title>
+        <subtitle></subtitle>
+        <icon>http://example.com/images/favicon.ico</icon>
         <link>http://example.com</link>
+        <author>
+          <name>duoxichangan</name>
+        </author>
         <description></description>
         <language>zh-CN</language>
         <pubDate>Fri, 24 Jan 2025 12:05:26 +0800</pubDate>
         <lastBuildDate>Fri, 24 Jan 2025 12:05:26 +0800</lastBuildDate>
-        <category>金融</category>
         <item>
             <guid isPermalink="true">http://example.com/2025/01/24/%E5%AD%A6%E4%B9%A0%E5%AD%A6%E4%B9%A0%E6%88%91%E7%88%B1%E5%AD%A6%E4%B9%A0/%E9%87%91%E8%9E%8D%E5%AD%A6%E6%9C%9F%E6%9C%AB%E5%A4%8D%E4%B9%A0/</guid>
             <title>金融学期末复习</title>
             <link>http://example.com/2025/01/24/%E5%AD%A6%E4%B9%A0%E5%AD%A6%E4%B9%A0%E6%88%91%E7%88%B1%E5%AD%A6%E4%B9%A0/%E9%87%91%E8%9E%8D%E5%AD%A6%E6%9C%9F%E6%9C%AB%E5%A4%8D%E4%B9%A0/</link>
-            <category>金融</category>
+            <category term="学习学习我爱学习" scheme="http://example.com/categories/STUDYING/" />
+            <category term="金融" scheme="http://example.com/tags/%E9%87%91%E8%9E%8D/" />
             <pubDate>Fri, 24 Jan 2025 12:05:26 +0800</pubDate>
             <description><![CDATA[ &lt;h1 id=&#34;材料分析题&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#材料分析题&#34;&gt;#&lt;/a&gt; 材料分析题&lt;/h1&gt;
 &lt;ul&gt;
@@ -319,6 +324,7 @@
             <guid isPermalink="true">http://example.com/2025/01/23/%E6%9D%82%E8%AE%B0/%E4%BA%BA%E7%94%9F%E6%98%AF%E6%97%B7%E9%87%8E%EF%BC%8C%E4%B8%8D%E6%98%AF%E8%BD%A8%E9%81%93/</guid>
             <title>人生是旷野，不是轨道</title>
             <link>http://example.com/2025/01/23/%E6%9D%82%E8%AE%B0/%E4%BA%BA%E7%94%9F%E6%98%AF%E6%97%B7%E9%87%8E%EF%BC%8C%E4%B8%8D%E6%98%AF%E8%BD%A8%E9%81%93/</link>
+            <category term="杂记" scheme="http://example.com/categories/SOMETHING/" />
             <pubDate>Thu, 23 Jan 2025 20:03:07 +0800</pubDate>
             <description><![CDATA[ &lt;p&gt;Welcome to &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9kdW94aWNoYW5nYW4uZ2l0aHViLmlvLw==&#34;&gt;duoxichangan&lt;/span&gt;’s blog!&lt;/p&gt;
 &lt;h1 id=&#34;想起他们-毛不易&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#想起他们-毛不易&#34;&gt;#&lt;/a&gt; &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9tdXNpYy4xNjMuY29tLyMvc29uZz9pZD0yNjI2MTE2ODkz&#34;&gt;想起他们 - 毛不易&lt;/span&gt;&lt;/h1&gt;

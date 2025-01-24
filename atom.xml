@@ -2,9 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://example.com</id>
     <title>Welcome to Duoxichangan&#39; Blog</title>
+    <subtitle></subtitle>
+    <icon>http://example.com/images/favicon.ico</icon>
     <link href="http://example.com" />
+    <author>
+      <name>duoxichangan</name>
+    </author>
     <updated>2025-01-24T04:05:26.000Z</updated>
-    <category term="金融" />
     <entry>
         <id>http://example.com/2025/01/24/%E5%AD%A6%E4%B9%A0%E5%AD%A6%E4%B9%A0%E6%88%91%E7%88%B1%E5%AD%A6%E4%B9%A0/%E9%87%91%E8%9E%8D%E5%AD%A6%E6%9C%9F%E6%9C%AB%E5%A4%8D%E4%B9%A0/</id>
         <title>金融学期末复习</title>
@@ -309,7 +313,8 @@
 &lt;li&gt;&lt;strong&gt;公开市场业务&lt;/strong&gt;：中央银行通过公开买卖有价证券，吞吐基础货币，以调节货币供应量的货币政策工具&lt;/li&gt;
 &lt;/ul&gt;
 </content>
-        <category term="金融" />
+        <category term="学习学习我爱学习" scheme="http://example.com/categories/STUDYING/" />
+        <category term="金融" scheme="http://example.com/tags/%E9%87%91%E8%9E%8D/" />
         <updated>2025-01-24T04:05:26.000Z</updated>
     </entry>
     <entry>
@@ -351,6 +356,7 @@
 让我流泪的人 为我流泪的人&lt;br&gt;
 在某次夜深 我想起他们&lt;/p&gt;
 </content>
+        <category term="杂记" scheme="http://example.com/categories/SOMETHING/" />
         <updated>2025-01-23T12:03:07.923Z</updated>
     </entry>
 </feed>
