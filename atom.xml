@@ -620,7 +620,7 @@ M834 80h400000v40h-400000z&#39;/&gt;&lt;/svg&gt;&lt;/span&gt;&lt;/span&gt;&lt;/s
         <id>http://example.com/2025/01/24/%E5%AD%A6%E4%B9%A0%E5%AD%A6%E4%B9%A0%E6%88%91%E7%88%B1%E5%AD%A6%E4%B9%A0/%E9%87%91%E8%9E%8D%E5%AD%A6%E6%9C%9F%E6%9C%AB%E5%A4%8D%E4%B9%A0/</id>
         <title>金融学期末复习</title>
         <link rel="alternate" href="http://example.com/2025/01/24/%E5%AD%A6%E4%B9%A0%E5%AD%A6%E4%B9%A0%E6%88%91%E7%88%B1%E5%AD%A6%E4%B9%A0/%E9%87%91%E8%9E%8D%E5%AD%A6%E6%9C%9F%E6%9C%AB%E5%A4%8D%E4%B9%A0/"/>
-        <content type="html">&lt;h1 id=&#34;材料分析题&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#材料分析题&#34;&gt;#&lt;/a&gt; 材料分析题&lt;/h1&gt;
+        <content type="html">&lt;h1 id=&#34;材料分析题&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#材料分析题&#34;&gt;#&lt;/a&gt; 材料分析题&lt;/h1&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;央行公告，逆回购操作&lt;/strong&gt;
 &lt;ul&gt;
@@ -734,8 +734,8 @@ M834 80h400000v40h-400000z&#39;/&gt;&lt;/svg&gt;&lt;/span&gt;&lt;/span&gt;&lt;/s
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
-&lt;h1 id=&#34;名词解析&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#名词解析&#34;&gt;#&lt;/a&gt; 名词解析&lt;/h1&gt;
-&lt;h2 id=&#34;第一章-货币与货币制度&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#第一章-货币与货币制度&#34;&gt;#&lt;/a&gt; 第一章 货币与货币制度&lt;/h2&gt;
+&lt;h1 id=&#34;名词解析&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#名词解析&#34;&gt;#&lt;/a&gt; 名词解析&lt;/h1&gt;
+&lt;h2 id=&#34;第一章-货币与货币制度&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#第一章-货币与货币制度&#34;&gt;#&lt;/a&gt; 第一章 货币与货币制度&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;货币&lt;/strong&gt;：货币是商品生产和商品交换长期发展的产物&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;价值尺度&lt;/strong&gt;：货币衡量商品价值的职能&lt;/li&gt;
@@ -766,7 +766,7 @@ M834 80h400000v40h-400000z&#39;/&gt;&lt;/svg&gt;&lt;/span&gt;&lt;/span&gt;&lt;/s
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id=&#34;第二章-信用-利息与利率&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#第二章-信用-利息与利率&#34;&gt;#&lt;/a&gt; 第二章 信用、利息与利率&lt;/h2&gt;
+&lt;h2 id=&#34;第二章-信用-利息与利率&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#第二章-信用-利息与利率&#34;&gt;#&lt;/a&gt; 第二章 信用、利息与利率&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;信用&lt;/strong&gt;：起源于商品经济条件下人们具有的相对独立的经济利益，是一种借贷关系和借贷行为&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;银行信用&lt;/strong&gt;：银行及其他非银行金融机构以存款、贷款等业务形式向社会国民经济各部门提供信用的方式&lt;/li&gt;
@@ -780,7 +780,7 @@ M834 80h400000v40h-400000z&#39;/&gt;&lt;/svg&gt;&lt;/span&gt;&lt;/span&gt;&lt;/s
 &lt;li&gt;&lt;strong&gt;可贷资金理论&lt;/strong&gt;：可贷资金的供给由社会的自愿储蓄、减少窖藏和新增货币供给构成&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;期限结构理论&lt;/strong&gt;：从不同期限利率之间的相互关系、相互影响以及共同决定方面来分析利率的决定&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id=&#34;第三章-金融市场&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#第三章-金融市场&#34;&gt;#&lt;/a&gt; 第三章 金融市场&lt;/h2&gt;
+&lt;h2 id=&#34;第三章-金融市场&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#第三章-金融市场&#34;&gt;#&lt;/a&gt; 第三章 金融市场&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;直接融资&lt;/strong&gt;：资金需求者通过在金融市场上向资金供给者直接出售有价证券&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;间接融资&lt;/strong&gt;：资金需求者通过金融中介机构间接获得资金供给者的多余资金的融资方式&lt;/li&gt;
@@ -798,7 +798,7 @@ M834 80h400000v40h-400000z&#39;/&gt;&lt;/svg&gt;&lt;/span&gt;&lt;/span&gt;&lt;/s
 &lt;li&gt;&lt;strong&gt;金融衍生品&lt;/strong&gt;：价值派生于货币、债券、股票等基础金融资产价格及价格指数的一种金融合约&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;金融衍生市场&lt;/strong&gt;：以金融衍生品为交易对象的市场&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h1 id=&#34;第四章-商业银行与其他金融机构&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#第四章-商业银行与其他金融机构&#34;&gt;#&lt;/a&gt; 第四章 商业银行与其他金融机构&lt;/h1&gt;
+&lt;h1 id=&#34;第四章-商业银行与其他金融机构&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#第四章-商业银行与其他金融机构&#34;&gt;#&lt;/a&gt; 第四章 商业银行与其他金融机构&lt;/h1&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;商业银行&lt;/strong&gt;：以追求利率最大化为经营目标、以各种金融资产和金融负债为交易对象、具有系统化和综合性服务功能的金融企业&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;影子银行&lt;/strong&gt;：从事金融中介活动，具有与传统银行类似的信用、期限、流动性转换功能，但未受传统银行等同监管的实体或准实体&lt;/li&gt;
@@ -818,7 +818,7 @@ M834 80h400000v40h-400000z&#39;/&gt;&lt;/svg&gt;&lt;/span&gt;&lt;/span&gt;&lt;/s
 &lt;li&gt;&lt;strong&gt;保险公司&lt;/strong&gt;：经营保险业务，收取保费并承担风险补偿责任，拥有专业化风险管理技术的机构组织&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;政策性银行&lt;/strong&gt;：由政府创立的、参股或保证的，不以盈利为目的的，专门为贯彻、配合政府社会经济政策或意图，在特定的业务领域内，直接或间接从事政策性融资活动，充当政府发展经济、促进社会进步、进行宏观经济管理工具的金融机构&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h1 id=&#34;第五章-中央银行&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#第五章-中央银行&#34;&gt;#&lt;/a&gt; 第五章 中央银行&lt;/h1&gt;
+&lt;h1 id=&#34;第五章-中央银行&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#第五章-中央银行&#34;&gt;#&lt;/a&gt; 第五章 中央银行&lt;/h1&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;银行券&lt;/strong&gt;：由银行（尤其是中央银行）发行的一种票据，俗称钞票，是一种可以发挥货币功能的信用工具&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;最后贷款人&lt;/strong&gt;：在银行体系遭受冲击，引起流动性需求大幅增加，单靠银行自身难以满足时，需要一个机构（中央银行）向商业银行提供流动性以稳健其经营&lt;/li&gt;
@@ -829,7 +829,7 @@ M834 80h400000v40h-400000z&#39;/&gt;&lt;/svg&gt;&lt;/span&gt;&lt;/span&gt;&lt;/s
 &lt;li&gt;&lt;strong&gt;部分准备制&lt;/strong&gt;：商业银行不需要将吸收的所有存款都作为准备金留在金库中或存入中央银行，而是留下一部分准备金，其余的资金则可以用于贷款或投资&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;支付系统&lt;/strong&gt;：一套包含支付工具和制度办法的系统，为系统参与者实现资金转账&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h1 id=&#34;第六章-货币需求&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#第六章-货币需求&#34;&gt;#&lt;/a&gt; 第六章 货币需求&lt;/h1&gt;
+&lt;h1 id=&#34;第六章-货币需求&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#第六章-货币需求&#34;&gt;#&lt;/a&gt; 第六章 货币需求&lt;/h1&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;货币需求&lt;/strong&gt;：宏观经济运行以及微观经济主体对货币的需求&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;货币存量&lt;/strong&gt;：某一时点上存在的货币的数量（水管横截面的大小）&lt;/li&gt;
@@ -842,7 +842,7 @@ M834 80h400000v40h-400000z&#39;/&gt;&lt;/svg&gt;&lt;/span&gt;&lt;/span&gt;&lt;/s
 &lt;li&gt;&lt;strong&gt;恒常收入&lt;/strong&gt;：指在相当长时间里可以得到的收入，是一种长期平均的预期内得到的收入&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;持币的机会成本&lt;/strong&gt;：持有货币而放弃的其他投资机会可能带来的收益&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h1 id=&#34;第七章-货币供给&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#第七章-货币供给&#34;&gt;#&lt;/a&gt; 第七章 货币供给&lt;/h1&gt;
+&lt;h1 id=&#34;第七章-货币供给&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#第七章-货币供给&#34;&gt;#&lt;/a&gt; 第七章 货币供给&lt;/h1&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;基础货币&lt;/strong&gt; = 银行准备金 +　流通中现金&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;货币供给&lt;/strong&gt;：某一国或货币区的银行系统向经济体中投入、创造、扩张（或收缩）货币的金融过程&lt;/li&gt;
@@ -855,7 +855,7 @@ M834 80h400000v40h-400000z&#39;/&gt;&lt;/svg&gt;&lt;/span&gt;&lt;/span&gt;&lt;/s
 &lt;li&gt;&lt;strong&gt;原始存款&lt;/strong&gt;：直接来源于中央银行投放的基础货币的贷款&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;派生存款&lt;/strong&gt;：通过商业银行的信用创造，间接来源于中央银行投放的基础货币的贷款&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h1 id=&#34;第八章-通货膨胀及通货紧缩&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#第八章-通货膨胀及通货紧缩&#34;&gt;#&lt;/a&gt; 第八章 通货膨胀及通货紧缩&lt;/h1&gt;
+&lt;h1 id=&#34;第八章-通货膨胀及通货紧缩&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#第八章-通货膨胀及通货紧缩&#34;&gt;#&lt;/a&gt; 第八章 通货膨胀及通货紧缩&lt;/h1&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;货币均衡&lt;/strong&gt;：经济社会中，货币总供给等于货币总需求&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;通货膨胀&lt;/strong&gt;
@@ -875,7 +875,7 @@ M834 80h400000v40h-400000z&#39;/&gt;&lt;/svg&gt;&lt;/span&gt;&lt;/span&gt;&lt;/s
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
-&lt;h1 id=&#34;第九章-货币政策理论与实践&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#第九章-货币政策理论与实践&#34;&gt;#&lt;/a&gt; 第九章 货币政策理论与实践&lt;/h1&gt;
+&lt;h1 id=&#34;第九章-货币政策理论与实践&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#第九章-货币政策理论与实践&#34;&gt;#&lt;/a&gt; 第九章 货币政策理论与实践&lt;/h1&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;货币政策目标&lt;/strong&gt;：指中央银行制定和实施货币政策所期望达到的最终经济目的&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;一般性政策工具&lt;/strong&gt;
@@ -917,7 +917,9 @@ M834 80h400000v40h-400000z&#39;/&gt;&lt;/svg&gt;&lt;/span&gt;&lt;/span&gt;&lt;/s
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;贴现率工具&lt;/strong&gt;：制定和调整贴现率来改变商业银行接受中央银行贷款的融资成本&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;公开市场业务&lt;/strong&gt;：中央银行通过公开买卖有价证券，吞吐基础货币，以调节货币供应量的货币政策工具&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;公开市场业务&lt;/strong&gt;：中央银行通过公开买卖有价证券，吞吐基础货币，以调节货币供应量的货币政策工具&lt;br /&gt;
+ 1+1=2&lt;br /&gt;
+&lt;span class=&#34;katex&#34;&gt;&lt;span class=&#34;katex-mathml&#34;&gt;&lt;math xmlns=&#34;http://www.w3.org/1998/Math/MathML&#34;&gt;&lt;semantics&gt;&lt;mrow&gt;&lt;mn&gt;1&lt;/mn&gt;&lt;mo&gt;+&lt;/mo&gt;&lt;mn&gt;1&lt;/mn&gt;&lt;mo&gt;=&lt;/mo&gt;&lt;mn&gt;2&lt;/mn&gt;&lt;/mrow&gt;&lt;annotation encoding=&#34;application/x-tex&#34;&gt;1+1=2&lt;/annotation&gt;&lt;/semantics&gt;&lt;/math&gt;&lt;/span&gt;&lt;span class=&#34;katex-html&#34; aria-hidden=&#34;true&#34;&gt;&lt;span class=&#34;base&#34;&gt;&lt;span class=&#34;strut&#34; style=&#34;height:0.72777em;vertical-align:-0.08333em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mord&#34;&gt;1&lt;/span&gt;&lt;span class=&#34;mspace&#34; style=&#34;margin-right:0.2222222222222222em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mbin&#34;&gt;+&lt;/span&gt;&lt;span class=&#34;mspace&#34; style=&#34;margin-right:0.2222222222222222em;&#34;&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;base&#34;&gt;&lt;span class=&#34;strut&#34; style=&#34;height:0.64444em;vertical-align:0em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mord&#34;&gt;1&lt;/span&gt;&lt;span class=&#34;mspace&#34; style=&#34;margin-right:0.2777777777777778em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mrel&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;mspace&#34; style=&#34;margin-right:0.2777777777777778em;&#34;&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;base&#34;&gt;&lt;span class=&#34;strut&#34; style=&#34;height:0.64444em;vertical-align:0em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mord&#34;&gt;2&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </content>
         <category term="学习学习我爱学习" scheme="http://example.com/categories/STUDYING/" />
