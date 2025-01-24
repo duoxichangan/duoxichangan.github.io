@@ -1,15 +1,20 @@
 <?xml version="1.0"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>http://example.com</id>
-    <title>Welcome to Duoxichangan&#39; Blog • Posts by &#34;finance&#34; tag</title>
-    <link href="http://example.com" />
-    <updated>2025-01-24T04:05:26.000Z</updated>
-    <category term="FINANCE" />
-    <entry>
-        <id>http://example.com/2025/01/24/STUDYING/%E9%87%91%E8%9E%8D%E5%AD%A6%E6%9C%9F%E6%9C%AB%E5%A4%8D%E4%B9%A0/</id>
-        <title>金融学期末复习</title>
-        <link rel="alternate" href="http://example.com/2025/01/24/STUDYING/%E9%87%91%E8%9E%8D%E5%AD%A6%E6%9C%9F%E6%9C%AB%E5%A4%8D%E4%B9%A0/"/>
-        <content type="html">&lt;h1 id=&#34;材料分析题&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#材料分析题&#34;&gt;#&lt;/a&gt; 材料分析题&lt;/h1&gt;
+<rss version="2.0">
+    <channel>
+        <title>Welcome to Duoxichangan&#39; Blog • Posts by &#34;金融&#34; tag</title>
+        <link>http://example.com</link>
+        <description></description>
+        <language>zh-CN</language>
+        <pubDate>Fri, 24 Jan 2025 12:05:26 +0800</pubDate>
+        <lastBuildDate>Fri, 24 Jan 2025 12:05:26 +0800</lastBuildDate>
+        <category>金融</category>
+        <item>
+            <guid isPermalink="true">http://example.com/2025/01/24/STUDYING/%E9%87%91%E8%9E%8D%E5%AD%A6%E6%9C%9F%E6%9C%AB%E5%A4%8D%E4%B9%A0/</guid>
+            <title>金融学期末复习</title>
+            <link>http://example.com/2025/01/24/STUDYING/%E9%87%91%E8%9E%8D%E5%AD%A6%E6%9C%9F%E6%9C%AB%E5%A4%8D%E4%B9%A0/</link>
+            <category>金融</category>
+            <pubDate>Fri, 24 Jan 2025 12:05:26 +0800</pubDate>
+            <description><![CDATA[ &lt;h1 id=&#34;材料分析题&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#材料分析题&#34;&gt;#&lt;/a&gt; 材料分析题&lt;/h1&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;央行公告，逆回购操作&lt;/strong&gt;
 &lt;ul&gt;
@@ -308,8 +313,7 @@
 &lt;li&gt;&lt;strong&gt;贴现率工具&lt;/strong&gt;：制定和调整贴现率来改变商业银行接受中央银行贷款的融资成本&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;公开市场业务&lt;/strong&gt;：中央银行通过公开买卖有价证券，吞吐基础货币，以调节货币供应量的货币政策工具&lt;/li&gt;
 &lt;/ul&gt;
-</content>
-        <category term="FINANCE" />
-        <updated>2025-01-24T04:05:26.000Z</updated>
-    </entry>
-</feed>
+ ]]></description>
+        </item>
+    </channel>
+</rss>
