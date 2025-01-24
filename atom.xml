@@ -3,28 +3,7 @@
     <id>http://example.com</id>
     <title>Hexo</title>
     <link href="http://example.com" />
-    <updated>2025-01-23T12:23:48.000Z</updated>
-    <entry>
-        <id>http://example.com/2025/01/23/test-1/</id>
-        <title>test</title>
-        <link rel="alternate" href="http://example.com/2025/01/23/test-1/"/>
-        <content type="html"></content>
-        <updated>2025-01-23T12:23:48.000Z</updated>
-    </entry>
-    <entry>
-        <id>http://example.com/2025/01/23/zzh/</id>
-        <title>zzh</title>
-        <link rel="alternate" href="http://example.com/2025/01/23/zzh/"/>
-        <content type="html"></content>
-        <updated>2025-01-23T12:19:17.000Z</updated>
-    </entry>
-    <entry>
-        <id>http://example.com/2025/01/23/test/</id>
-        <title>test</title>
-        <link rel="alternate" href="http://example.com/2025/01/23/test/"/>
-        <content type="html"></content>
-        <updated>2025-01-23T12:09:39.000Z</updated>
-    </entry>
+    <updated>2025-01-23T12:03:07.923Z</updated>
     <entry>
         <id>http://example.com/2025/01/23/%E4%BA%BA%E7%94%9F%E6%98%AF%E6%97%B7%E9%87%8E%EF%BC%8C%E4%B8%8D%E6%98%AF%E8%BD%A8%E9%81%93/</id>
         <title>人生是旷野，不是轨道</title>
