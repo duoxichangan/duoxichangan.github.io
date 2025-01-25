@@ -18,7 +18,10 @@
         <category term="学习学习我爱学习" scheme="http://duoxichangan.github.io/categories/STUDYING/" />
         <category term="目录一" scheme="http://duoxichangan.github.io/categories/STUDYING/%E7%9B%AE%E5%BD%95%E4%B8%80/" />
         <category term="测试" scheme="http://duoxichangan.github.io/categories/STUDYING/%E7%9B%AE%E5%BD%95%E4%B8%80/%E6%B5%8B%E8%AF%95/" />
-        <category term="金融, 运筹, 数据结构, 测试" scheme="http://duoxichangan.github.io/tags/%E9%87%91%E8%9E%8D-%E8%BF%90%E7%AD%B9-%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84-%E6%B5%8B%E8%AF%95/" />
+        <category term="金融" scheme="http://duoxichangan.github.io/tags/%E9%87%91%E8%9E%8D/" />
+        <category term="数据结构" scheme="http://duoxichangan.github.io/tags/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/" />
+        <category term="运筹" scheme="http://duoxichangan.github.io/tags/%E8%BF%90%E7%AD%B9/" />
+        <category term="测试" scheme="http://duoxichangan.github.io/tags/%E6%B5%8B%E8%AF%95/" />
         <updated>2025-01-25T02:36:05.000Z</updated>
     </entry>
     <entry>
