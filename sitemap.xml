@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://duoxichangan.github.io/2025/01/31/%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1/Python/Python%E8%AF%AD%E6%B3%95/</loc>
+    
+    <lastmod>2025-01-31</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://duoxichangan.github.io/2025/01/25/%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1/AtCoder/ABC-381/</loc>
     
     <lastmod>2025-01-26</lastmod>
@@ -85,7 +94,7 @@
 
   <url>
     <loc>http://duoxichangan.github.io/</loc>
-    <lastmod>2025-01-26</lastmod>
+    <lastmod>2025-01-31</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -93,84 +102,91 @@
   
   <url>
     <loc>http://duoxichangan.github.io/tags/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/</loc>
-    <lastmod>2025-01-26</lastmod>
+    <lastmod>2025-01-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://duoxichangan.github.io/tags/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0/</loc>
-    <lastmod>2025-01-26</lastmod>
+    <lastmod>2025-01-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://duoxichangan.github.io/tags/%E8%BF%90%E7%AD%B9%E5%AD%A6/</loc>
-    <lastmod>2025-01-26</lastmod>
+    <lastmod>2025-01-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://duoxichangan.github.io/tags/%E9%87%91%E8%9E%8D%E5%AD%A6/</loc>
-    <lastmod>2025-01-26</lastmod>
+    <lastmod>2025-01-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://duoxichangan.github.io/tags/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/</loc>
-    <lastmod>2025-01-26</lastmod>
+    <lastmod>2025-01-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://duoxichangan.github.io/tags/Div3/</loc>
-    <lastmod>2025-01-26</lastmod>
+    <lastmod>2025-01-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://duoxichangan.github.io/tags/%E6%A8%A1%E6%8B%9F/</loc>
-    <lastmod>2025-01-26</lastmod>
+    <lastmod>2025-01-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://duoxichangan.github.io/tags/%E6%8E%92%E5%BA%8F/</loc>
-    <lastmod>2025-01-26</lastmod>
+    <lastmod>2025-01-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://duoxichangan.github.io/tags/%E5%B9%B6%E6%9F%A5%E9%9B%86/</loc>
-    <lastmod>2025-01-26</lastmod>
+    <lastmod>2025-01-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://duoxichangan.github.io/tags/ABC/</loc>
-    <lastmod>2025-01-26</lastmod>
+    <lastmod>2025-01-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://duoxichangan.github.io/tags/DFS/</loc>
-    <lastmod>2025-01-26</lastmod>
+    <lastmod>2025-01-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://duoxichangan.github.io/tags/%E5%8F%8C%E6%8C%87%E9%92%88/</loc>
-    <lastmod>2025-01-26</lastmod>
+    <lastmod>2025-01-31</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://duoxichangan.github.io/tags/Python/</loc>
+    <lastmod>2025-01-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -179,35 +195,42 @@
   
   <url>
     <loc>http://duoxichangan.github.io/categories/STUDYING/</loc>
-    <lastmod>2025-01-26</lastmod>
+    <lastmod>2025-01-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://duoxichangan.github.io/categories/SOMETHING/</loc>
-    <lastmod>2025-01-26</lastmod>
+    <lastmod>2025-01-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://duoxichangan.github.io/categories/CODING/</loc>
-    <lastmod>2025-01-26</lastmod>
+    <lastmod>2025-01-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://duoxichangan.github.io/categories/CODING/Codeforces/</loc>
-    <lastmod>2025-01-26</lastmod>
+    <lastmod>2025-01-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://duoxichangan.github.io/categories/CODING/AtCoder/</loc>
-    <lastmod>2025-01-26</lastmod>
+    <lastmod>2025-01-31</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://duoxichangan.github.io/categories/CODING/Python/</loc>
+    <lastmod>2025-01-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
