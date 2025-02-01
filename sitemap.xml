@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://duoxichangan.github.io/2025/01/24/%E5%AD%A6%E4%B9%A0%E5%AD%A6%E4%B9%A0%E6%88%91%E7%88%B1%E5%AD%A6%E4%B9%A0/%E8%BF%90%E7%AD%B9%E5%AD%A6/</loc>
+    
+    <lastmod>2025-02-01</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://duoxichangan.github.io/2025/01/31/%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1/Python/Python%E8%AF%AD%E6%B3%95/</loc>
     
     <lastmod>2025-02-01</lastmod>
@@ -21,15 +30,6 @@
   
   <url>
     <loc>http://duoxichangan.github.io/2025/01/25/%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1/AtCoder/ABC-381/</loc>
-    
-    <lastmod>2025-01-26</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://duoxichangan.github.io/2025/01/24/%E5%AD%A6%E4%B9%A0%E5%AD%A6%E4%B9%A0%E6%88%91%E7%88%B1%E5%AD%A6%E4%B9%A0/%E8%BF%90%E7%AD%B9%E5%AD%A6/</loc>
     
     <lastmod>2025-01-26</lastmod>
     
