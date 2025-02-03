@@ -7,6 +7,17 @@
     "home_page_url": "http://duoxichangan.github.io",
     "items": [
         {
+            "id": "http://duoxichangan.github.io/2025/02/03/%E6%9D%82%E8%AE%B0/%E7%89%B9%E6%AE%8A%E5%8A%9F%E8%83%BD/",
+            "url": "http://duoxichangan.github.io/2025/02/03/%E6%9D%82%E8%AE%B0/%E7%89%B9%E6%AE%8A%E5%8A%9F%E8%83%BD/",
+            "title": "特殊功能",
+            "date_published": "2025-02-03T11:24:32.000Z",
+            "content_html": "<h1 id=\"链接块\"><a class=\"anchor\" href=\"#链接块\">#</a> 链接块</h1>\n<p><figure class=\"highlight plaintext\"><table><tr><td class=\"gutter\"><pre><span class=\"line\">1</span><br><span class=\"line\">2</span><br><span class=\"line\">3</span><br><span class=\"line\">4</span><br><span class=\"line\">5</span><br><span class=\"line\">6</span><br><span class=\"line\">7</span><br><span class=\"line\">8</span><br></pre></td><td class=\"code\"><pre><span class=\"line\">&#123;% links %&#125;</span><br><span class=\"line\">- site: #站点名称</span><br><span class=\"line\">  owner: #管理员名字</span><br><span class=\"line\">  url: #站点网址</span><br><span class=\"line\">  desc: #简短描述</span><br><span class=\"line\">  image: #一张图片</span><br><span class=\"line\">  color: #颜色代码</span><br><span class=\"line\">&#123;% endlinks %&#125;</span><br></pre></td></tr></table></figure><br />\n 例如<br />\n <figure class=\"highlight plaintext\"><table><tr><td class=\"gutter\"><pre><span class=\"line\">1</span><br><span class=\"line\">2</span><br><span class=\"line\">3</span><br><span class=\"line\">4</span><br><span class=\"line\">5</span><br><span class=\"line\">6</span><br><span class=\"line\">7</span><br><span class=\"line\">8</span><br></pre></td><td class=\"code\"><pre><span class=\"line\">&#123;% links %&#125;</span><br><span class=\"line\">- site: 多喜长安</span><br><span class=\"line\">  owner: duoxichangan</span><br><span class=\"line\">  url: https://duoxichangan.github.io</span><br><span class=\"line\">  desc: duoxichanganLink</span><br><span class=\"line\">  image: https://i.postimg.cc/NGKHthTX/b-cec3eec4e816368e4d4c7106ad31c61d.jpg</span><br><span class=\"line\">  color: &quot;#ed827c&quot;</span><br><span class=\"line\">&#123;% endlinks %&#125;</span><br></pre></td></tr></table></figure><br />\n<div class=\"links\"><div class=\"item\" title=\"duoxichangan\" style=\"--block-color:#ed827c;\"><a href=\"https://duoxichangan.github.io\" class=\"image\" data-background-image=\"https://i.postimg.cc/NGKHthTX/b-cec3eec4e816368e4d4c7106ad31c61d.jpg\"></a>\n          <div class=\"info\">\n          <a href=\"https://duoxichangan.github.io\" class=\"title\">多喜长安</a>\n          <p class=\"desc\">duoxichanganLink</p>\n          </div></div></div></p>\n",
+            "tags": [
+                "杂记",
+                "markdown"
+            ]
+        },
+        {
             "id": "http://duoxichangan.github.io/2025/02/03/%E5%AD%A6%E4%B9%A0%E5%AD%A6%E4%B9%A0%E6%88%91%E7%88%B1%E5%AD%A6%E4%B9%A0/%E6%95%B0%E6%8D%AE%E5%BA%93MySQL/",
             "url": "http://duoxichangan.github.io/2025/02/03/%E5%AD%A6%E4%B9%A0%E5%AD%A6%E4%B9%A0%E6%88%91%E7%88%B1%E5%AD%A6%E4%B9%A0/%E6%95%B0%E6%8D%AE%E5%BA%93MySQL/",
             "title": "数据库MySQL",

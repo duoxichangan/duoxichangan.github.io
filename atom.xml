@@ -8,7 +8,25 @@
     <author>
       <name>duoxichangan</name>
     </author>
-    <updated>2025-02-03T11:20:54.000Z</updated>
+    <updated>2025-02-03T11:24:32.000Z</updated>
+    <entry>
+        <id>http://duoxichangan.github.io/2025/02/03/%E6%9D%82%E8%AE%B0/%E7%89%B9%E6%AE%8A%E5%8A%9F%E8%83%BD/</id>
+        <title>特殊功能</title>
+        <link rel="alternate" href="http://duoxichangan.github.io/2025/02/03/%E6%9D%82%E8%AE%B0/%E7%89%B9%E6%AE%8A%E5%8A%9F%E8%83%BD/"/>
+        <content type="html">&lt;h1 id=&#34;链接块&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#链接块&#34;&gt;#&lt;/a&gt; 链接块&lt;/h1&gt;
+&lt;p&gt;&lt;figure class=&#34;highlight plaintext&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&amp;#123;% links %&amp;#125;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;- site: #站点名称&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  owner: #管理员名字&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  url: #站点网址&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  desc: #简短描述&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  image: #一张图片&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  color: #颜色代码&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&amp;#123;% endlinks %&amp;#125;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;br /&gt;
+ 例如&lt;br /&gt;
+ &lt;figure class=&#34;highlight plaintext&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&amp;#123;% links %&amp;#125;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;- site: 多喜长安&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  owner: duoxichangan&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  url: https://duoxichangan.github.io&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  desc: duoxichanganLink&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  image: https://i.postimg.cc/NGKHthTX/b-cec3eec4e816368e4d4c7106ad31c61d.jpg&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  color: &amp;quot;#ed827c&amp;quot;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&amp;#123;% endlinks %&amp;#125;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;br /&gt;
+&lt;div class=&#34;links&#34;&gt;&lt;div class=&#34;item&#34; title=&#34;duoxichangan&#34; style=&#34;--block-color:#ed827c;&#34;&gt;&lt;a href=&#34;https://duoxichangan.github.io&#34; class=&#34;image&#34; data-background-image=&#34;https://i.postimg.cc/NGKHthTX/b-cec3eec4e816368e4d4c7106ad31c61d.jpg&#34;&gt;&lt;/a&gt;
+          &lt;div class=&#34;info&#34;&gt;
+          &lt;a href=&#34;https://duoxichangan.github.io&#34; class=&#34;title&#34;&gt;多喜长安&lt;/a&gt;
+          &lt;p class=&#34;desc&#34;&gt;duoxichanganLink&lt;/p&gt;
+          &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/p&gt;
+</content>
+        <category term="杂记" scheme="http://duoxichangan.github.io/categories/SOMETHING/" />
+        <category term="markdown" scheme="http://duoxichangan.github.io/tags/markdown/" />
+        <updated>2025-02-03T11:24:32.000Z</updated>
+    </entry>
     <entry>
         <id>http://duoxichangan.github.io/2025/02/03/%E5%AD%A6%E4%B9%A0%E5%AD%A6%E4%B9%A0%E6%88%91%E7%88%B1%E5%AD%A6%E4%B9%A0/%E6%95%B0%E6%8D%AE%E5%BA%93MySQL/</id>
         <title>数据库MySQL</title>
