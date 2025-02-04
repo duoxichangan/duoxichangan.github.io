@@ -2,7 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://duoxichangan.github.io/2025/02/02/%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1/AtCoder/ABC-390/</loc>
+    <loc>http://duoxichangan.github.io/2025/02/04/%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1/Codeforces/CF-993/</loc>
+    
+    <lastmod>2025-02-04</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://duoxichangan.github.io/2025/01/25/%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1/Codeforces/CF-998/</loc>
     
     <lastmod>2025-02-04</lastmod>
     
@@ -12,6 +21,24 @@
   
   <url>
     <loc>http://duoxichangan.github.io/2025/02/01/%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1/AtCoder/ABC-380/</loc>
+    
+    <lastmod>2025-02-04</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://duoxichangan.github.io/2025/01/25/%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1/AtCoder/ABC-381/</loc>
+    
+    <lastmod>2025-02-04</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://duoxichangan.github.io/2025/02/02/%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1/AtCoder/ABC-390/</loc>
     
     <lastmod>2025-02-04</lastmod>
     
@@ -56,15 +83,6 @@
   </url>
   
   <url>
-    <loc>http://duoxichangan.github.io/2025/01/25/%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1/AtCoder/ABC-381/</loc>
-    
-    <lastmod>2025-01-26</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>http://duoxichangan.github.io/2025/01/26/%E5%AD%A6%E4%B9%A0%E5%AD%A6%E4%B9%A0%E6%88%91%E7%88%B1%E5%AD%A6%E4%B9%A0/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%E6%9C%9F%E6%9C%AB%E5%A4%8D%E4%B9%A0/</loc>
     
     <lastmod>2025-01-26</lastmod>
@@ -84,15 +102,6 @@
   
   <url>
     <loc>http://duoxichangan.github.io/2025/01/25/%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1/AtCoder/ABC-382/</loc>
-    
-    <lastmod>2025-01-25</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://duoxichangan.github.io/2025/01/25/%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1/Codeforces/Codeforces-Round-998/</loc>
     
     <lastmod>2025-01-25</lastmod>
     
@@ -257,6 +266,20 @@
   
   <url>
     <loc>http://duoxichangan.github.io/tags/STL/</loc>
+    <lastmod>2025-02-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://duoxichangan.github.io/tags/Div4/</loc>
+    <lastmod>2025-02-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://duoxichangan.github.io/tags/%E6%9E%84%E9%80%A0/</loc>
     <lastmod>2025-02-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
