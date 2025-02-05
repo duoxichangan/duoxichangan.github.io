@@ -7,21 +7,6 @@
     "home_page_url": "http://duoxichangan.github.io",
     "items": [
         {
-            "id": "http://duoxichangan.github.io/2025/02/25/%E6%9D%82%E8%AE%B0/%E6%B5%8B%E8%AF%95%E6%B5%8B%E8%AF%95/",
-            "url": "http://duoxichangan.github.io/2025/02/25/%E6%9D%82%E8%AE%B0/%E6%B5%8B%E8%AF%95%E6%B5%8B%E8%AF%95/",
-            "title": "测试obsidian",
-            "date_published": "2025-02-25T12:40:00.000Z",
-            "content_html": "<p>测试 obsidian</p>\n",
-            "tags": [
-                "[[\"杂记\"]]",
-                "数据结构",
-                "模拟",
-                "并查集",
-                "构造",
-                "灵敏度分析"
-            ]
-        },
-        {
             "id": "http://duoxichangan.github.io/2025/02/05/%E5%AD%A6%E4%B9%A0%E5%AD%A6%E4%B9%A0%E6%88%91%E7%88%B1%E5%AD%A6%E4%B9%A0/%E8%BF%90%E7%AD%B9%E5%AD%A6/%E8%BF%90%E8%BE%93%E9%97%AE%E9%A2%98/",
             "url": "http://duoxichangan.github.io/2025/02/05/%E5%AD%A6%E4%B9%A0%E5%AD%A6%E4%B9%A0%E6%88%91%E7%88%B1%E5%AD%A6%E4%B9%A0/%E8%BF%90%E7%AD%B9%E5%AD%A6/%E8%BF%90%E8%BE%93%E9%97%AE%E9%A2%98/",
             "title": "运输问题",
