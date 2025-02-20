@@ -366,10 +366,10 @@
         <id>http://duoxichangan.github.io/2025/02/19/%E5%AD%A6%E4%B9%A0%E5%AD%A6%E4%B9%A0%E6%88%91%E7%88%B1%E5%AD%A6%E4%B9%A0/%E6%95%B0%E6%8D%AE%E5%BA%93/%E6%95%B0%E6%8D%AE%E5%BA%93%E5%BB%BA%E6%A8%A1%E4%B8%8EE-R%E5%9B%BE/</id>
         <title>数据库建模与E-R图</title>
         <link rel="alternate" href="http://duoxichangan.github.io/2025/02/19/%E5%AD%A6%E4%B9%A0%E5%AD%A6%E4%B9%A0%E6%88%91%E7%88%B1%E5%AD%A6%E4%B9%A0/%E6%95%B0%E6%8D%AE%E5%BA%93/%E6%95%B0%E6%8D%AE%E5%BA%93%E5%BB%BA%E6%A8%A1%E4%B8%8EE-R%E5%9B%BE/"/>
-        <content type="html">&lt;p&gt;&lt;img data-src=&#34;https://i.postimg.cc/bN7yXghX/7aad414e-24e9-4213-87b8-0a40366925c6.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-&lt;h1 id=&#34;实体&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#实体&#34;&gt;#&lt;/a&gt; 实体&lt;/h1&gt;
+        <content type="html">&lt;h1 id=&#34;实体&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#实体&#34;&gt;#&lt;/a&gt; 实体&lt;/h1&gt;
 &lt;p&gt;实体是可区别于其他事务的 “事物” 或 “对象”&lt;br /&gt;
-&lt;mark&gt; 实体集&lt;/mark&gt;是相同类型的实体的集合&lt;/p&gt;
+&lt;mark&gt; 实体集&lt;/mark&gt;是相同类型的实体的集合&lt;br /&gt;
+&lt;img data-src=&#34;https://i.postimg.cc/bwTN7qGt/stj.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 &lt;h2 id=&#34;实体的特征&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#实体的特征&#34;&gt;#&lt;/a&gt; 实体的特征&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;独立存在&lt;/li&gt;
@@ -377,7 +377,8 @@
 &lt;/ul&gt;
 &lt;h1 id=&#34;属性&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#属性&#34;&gt;#&lt;/a&gt; 属性&lt;/h1&gt;
 &lt;p&gt;实体是通过一组属性来描述的，属性是实体集中的每个实体都具有的特征描述&lt;br /&gt;
-对于一个属性来说，每个实体都拥有自己的属性值&lt;/p&gt;
+对于一个属性来说，每个实体都拥有自己的属性值&lt;br /&gt;
+&lt;img data-src=&#34;https://i.postimg.cc/QtB8K5fQ/sx.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 &lt;h2 id=&#34;属性的分类&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#属性的分类&#34;&gt;#&lt;/a&gt; 属性的分类&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;简单属性和复合属性&lt;/strong&gt;
@@ -404,7 +405,8 @@
 &lt;/ul&gt;
 &lt;h1 id=&#34;联系与联系集&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#联系与联系集&#34;&gt;#&lt;/a&gt; 联系与联系集&lt;/h1&gt;
 &lt;p&gt;联系是多个实体间的&lt;mark&gt;相互关联&lt;/mark&gt;&lt;br /&gt;
-联系集是相同类型的&lt;mark&gt;联系的集合&lt;/mark&gt;&lt;/p&gt;
+联系集是相同类型的&lt;mark&gt;联系的集合&lt;/mark&gt;&lt;br /&gt;
+&lt;img data-src=&#34;https://i.postimg.cc/x8M9tQDq/lxj.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 &lt;h2 id=&#34;联系属性&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#联系属性&#34;&gt;#&lt;/a&gt; 联系属性&lt;/h2&gt;
 &lt;p&gt;联系集也可以有自己的属性，称为&lt;mark&gt;联系属性&lt;/mark&gt;&lt;/p&gt;
 &lt;h2 id=&#34;联系集的度&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#联系集的度&#34;&gt;#&lt;/a&gt; 联系集的度&lt;/h2&gt;
@@ -417,7 +419,8 @@
 &lt;ul&gt;
 &lt;li&gt;一对一&lt;/li&gt;
 &lt;li&gt;一对多&lt;/li&gt;
-&lt;li&gt;多对一&lt;/li&gt;
+&lt;li&gt;多对一&lt;br /&gt;
+&lt;img data-src=&#34;https://i.postimg.cc/gcZcYVXd/ydd.png&#34; alt=&#34;&#34; /&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;码约束&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#码约束&#34;&gt;#&lt;/a&gt; 码约束&lt;/h2&gt;
 &lt;h3 id=&#34;实体集的码&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#实体集的码&#34;&gt;#&lt;/a&gt; 实体集的码&lt;/h3&gt;
@@ -450,7 +453,8 @@
 &lt;/li&gt;
 &lt;li&gt;依赖实体集中&lt;mark&gt;实体的存在&lt;/mark&gt;
 &lt;ul&gt;
-&lt;li&gt;将依赖于其他实体集中的实体存在的实体集称为&lt;mark&gt;弱实体集&lt;/mark&gt;&lt;/li&gt;
+&lt;li&gt;将依赖于其他实体集中的实体存在的实体集称为&lt;mark&gt;弱实体集&lt;/mark&gt;&lt;br /&gt;
+&lt;img data-src=&#34;https://i.postimg.cc/7Y1xzqnW/ylr.png&#34; alt=&#34;&#34; /&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
@@ -494,9 +498,11 @@
 &lt;/ul&gt;
 &lt;h1 id=&#34;类层次&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#类层次&#34;&gt;#&lt;/a&gt; 类层次&lt;/h1&gt;
 &lt;p&gt;&lt;span class=&#34;katex&#34;&gt;&lt;span class=&#34;katex-mathml&#34;&gt;&lt;math xmlns=&#34;http://www.w3.org/1998/Math/MathML&#34;&gt;&lt;semantics&gt;&lt;mrow&gt;&lt;mi&gt;E&lt;/mi&gt;&lt;mo&gt;−&lt;/mo&gt;&lt;mi&gt;R&lt;/mi&gt;&lt;/mrow&gt;&lt;annotation encoding=&#34;application/x-tex&#34;&gt;E-R&lt;/annotation&gt;&lt;/semantics&gt;&lt;/math&gt;&lt;/span&gt;&lt;span class=&#34;katex-html&#34; aria-hidden=&#34;true&#34;&gt;&lt;span class=&#34;base&#34;&gt;&lt;span class=&#34;strut&#34; style=&#34;height:0.76666em;vertical-align:-0.08333em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mord mathnormal&#34; style=&#34;margin-right:0.05764em;&#34;&gt;E&lt;/span&gt;&lt;span class=&#34;mspace&#34; style=&#34;margin-right:0.2222222222222222em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mbin&#34;&gt;−&lt;/span&gt;&lt;span class=&#34;mspace&#34; style=&#34;margin-right:0.2222222222222222em;&#34;&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;base&#34;&gt;&lt;span class=&#34;strut&#34; style=&#34;height:0.68333em;vertical-align:0em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mord mathnormal&#34; style=&#34;margin-right:0.00773em;&#34;&gt;R&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt; 模型使用实体集的&lt;mark&gt;继承&lt;/mark&gt;和 &lt;span class=&#34;katex&#34;&gt;&lt;span class=&#34;katex-mathml&#34;&gt;&lt;math xmlns=&#34;http://www.w3.org/1998/Math/MathML&#34;&gt;&lt;semantics&gt;&lt;mrow&gt;&lt;mi&gt;I&lt;/mi&gt;&lt;mi&gt;S&lt;/mi&gt;&lt;mi&gt;A&lt;/mi&gt;&lt;/mrow&gt;&lt;annotation encoding=&#34;application/x-tex&#34;&gt;ISA&lt;/annotation&gt;&lt;/semantics&gt;&lt;/math&gt;&lt;/span&gt;&lt;span class=&#34;katex-html&#34; aria-hidden=&#34;true&#34;&gt;&lt;span class=&#34;base&#34;&gt;&lt;span class=&#34;strut&#34; style=&#34;height:0.68333em;vertical-align:0em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mord mathnormal&#34; style=&#34;margin-right:0.07847em;&#34;&gt;I&lt;/span&gt;&lt;span class=&#34;mord mathnormal&#34; style=&#34;margin-right:0.05764em;&#34;&gt;S&lt;/span&gt;&lt;span class=&#34;mord mathnormal&#34;&gt;A&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt; 联系来描述这种概念上的层次关系&lt;br /&gt;
-&lt;span class=&#34;katex&#34;&gt;&lt;span class=&#34;katex-mathml&#34;&gt;&lt;math xmlns=&#34;http://www.w3.org/1998/Math/MathML&#34;&gt;&lt;semantics&gt;&lt;mrow&gt;&lt;mi&gt;I&lt;/mi&gt;&lt;mi&gt;S&lt;/mi&gt;&lt;mi&gt;A&lt;/mi&gt;&lt;/mrow&gt;&lt;annotation encoding=&#34;application/x-tex&#34;&gt;ISA&lt;/annotation&gt;&lt;/semantics&gt;&lt;/math&gt;&lt;/span&gt;&lt;span class=&#34;katex-html&#34; aria-hidden=&#34;true&#34;&gt;&lt;span class=&#34;base&#34;&gt;&lt;span class=&#34;strut&#34; style=&#34;height:0.68333em;vertical-align:0em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mord mathnormal&#34; style=&#34;margin-right:0.07847em;&#34;&gt;I&lt;/span&gt;&lt;span class=&#34;mord mathnormal&#34; style=&#34;margin-right:0.05764em;&#34;&gt;S&lt;/span&gt;&lt;span class=&#34;mord mathnormal&#34;&gt;A&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt; 为  &lt;code&gt;is a&lt;/code&gt;  的含义，表示高层实体和底层实体之间的 “父类 - 子类” 的联系&lt;/p&gt;
+&lt;span class=&#34;katex&#34;&gt;&lt;span class=&#34;katex-mathml&#34;&gt;&lt;math xmlns=&#34;http://www.w3.org/1998/Math/MathML&#34;&gt;&lt;semantics&gt;&lt;mrow&gt;&lt;mi&gt;I&lt;/mi&gt;&lt;mi&gt;S&lt;/mi&gt;&lt;mi&gt;A&lt;/mi&gt;&lt;/mrow&gt;&lt;annotation encoding=&#34;application/x-tex&#34;&gt;ISA&lt;/annotation&gt;&lt;/semantics&gt;&lt;/math&gt;&lt;/span&gt;&lt;span class=&#34;katex-html&#34; aria-hidden=&#34;true&#34;&gt;&lt;span class=&#34;base&#34;&gt;&lt;span class=&#34;strut&#34; style=&#34;height:0.68333em;vertical-align:0em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mord mathnormal&#34; style=&#34;margin-right:0.07847em;&#34;&gt;I&lt;/span&gt;&lt;span class=&#34;mord mathnormal&#34; style=&#34;margin-right:0.05764em;&#34;&gt;S&lt;/span&gt;&lt;span class=&#34;mord mathnormal&#34;&gt;A&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt; 为  &lt;code&gt;is a&lt;/code&gt;  的含义，表示高层实体和底层实体之间的 “父类 - 子类” 的联系&lt;br /&gt;
+&lt;img data-src=&#34;https://i.postimg.cc/63GKpKQz/isa.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 &lt;h1 id=&#34;聚合&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#聚合&#34;&gt;#&lt;/a&gt; 聚合&lt;/h1&gt;
-&lt;p&gt;聚合是一种抽象，它将一个联系集及其相关联的实体集抽象为一个&lt;mark&gt;联系实体集&lt;/mark&gt;（或称为&lt;mark&gt;高层实体集&lt;/mark&gt;），然后建立这个联系实体集和其他实体集的联系集&lt;/p&gt;
+&lt;p&gt;聚合是一种抽象，它将一个联系集及其相关联的实体集抽象为一个&lt;mark&gt;联系实体集&lt;/mark&gt;（或称为&lt;mark&gt;高层实体集&lt;/mark&gt;），然后建立这个联系实体集和其他实体集的联系集&lt;br /&gt;
+&lt;img data-src=&#34;https://i.postimg.cc/0jRs64Mv/lxstj.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 </content>
         <category term="学习学习我爱学习" scheme="http://duoxichangan.github.io/categories/%E5%AD%A6%E4%B9%A0%E5%AD%A6%E4%B9%A0%E6%88%91%E7%88%B1%E5%AD%A6%E4%B9%A0/" />
         <category term="数据库" scheme="http://duoxichangan.github.io/categories/%E5%AD%A6%E4%B9%A0%E5%AD%A6%E4%B9%A0%E6%88%91%E7%88%B1%E5%AD%A6%E4%B9%A0/%E6%95%B0%E6%8D%AE%E5%BA%93/" />
