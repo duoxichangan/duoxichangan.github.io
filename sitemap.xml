@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://duoxichangan.github.io/2025/03/24/%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1/%E5%9B%BE%E8%AE%BA/%E4%BA%8C%E5%88%86%E5%9B%BE/</loc>
+    <loc>http://duoxichangan.github.io/2025/03/24/%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1/AtCoder/ABC-398/</loc>
     
     <lastmod>2025-03-24</lastmod>
     
@@ -11,7 +11,7 @@
   </url>
   
   <url>
-    <loc>http://duoxichangan.github.io/2025/03/24/%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1/AtCoder/ABC-398/</loc>
+    <loc>http://duoxichangan.github.io/2025/03/24/%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1/%E5%9B%BE%E8%AE%BA/%E4%BA%8C%E5%88%86%E5%9B%BE/</loc>
     
     <lastmod>2025-03-24</lastmod>
     
@@ -1534,6 +1534,13 @@
   
   <url>
     <loc>http://duoxichangan.github.io/tags/%E4%BA%8C%E5%88%86%E5%9B%BE/</loc>
+    <lastmod>2025-03-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://duoxichangan.github.io/tags/%E4%BA%A4%E4%BA%92%E9%A2%98/</loc>
     <lastmod>2025-03-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
