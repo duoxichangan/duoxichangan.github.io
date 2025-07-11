@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://duoxichangan.github.io/2025/06/08/%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1/%E6%9D%82%E9%A2%98%E9%9B%86/2025ICPC%E5%8D%97%E6%98%8C%E9%82%80%E8%AF%B7%E8%B5%9B/</loc>
+    <loc>http://duoxichangan.github.io/2025/07/09/%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1/Codeforces/CF-1017/</loc>
     
     <lastmod>2025-07-11</lastmod>
     
@@ -11,7 +11,7 @@
   </url>
   
   <url>
-    <loc>http://duoxichangan.github.io/2025/07/09/%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1/Codeforces/CF-1017/</loc>
+    <loc>http://duoxichangan.github.io/2025/06/08/%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1/%E6%9D%82%E9%A2%98%E9%9B%86/2025ICPC%E5%8D%97%E6%98%8C%E9%82%80%E8%AF%B7%E8%B5%9B/</loc>
     
     <lastmod>2025-07-11</lastmod>
     
@@ -23,6 +23,15 @@
     <loc>http://duoxichangan.github.io/2025/07/10/%E5%AD%A6%E4%B9%A0%E5%AD%A6%E4%B9%A0%E6%88%91%E7%88%B1%E5%AD%A6%E4%B9%A0/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/functions%E5%9F%BA%E7%A1%80%E5%87%BD%E6%95%B0/</loc>
     
     <lastmod>2025-07-10</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://duoxichangan.github.io/2025/07/08/%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1/AtCoder/ABC-403/</loc>
+    
+    <lastmod>2025-07-09</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
