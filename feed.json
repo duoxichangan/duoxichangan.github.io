@@ -7,6 +7,20 @@
     "home_page_url": "http://duoxichangan.github.io",
     "items": [
         {
+            "id": "http://duoxichangan.github.io/2025/07/12/%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1/%E6%9D%82%E9%A2%98%E9%9B%86/%E6%B5%8B%E8%AF%95/",
+            "url": "http://duoxichangan.github.io/2025/07/12/%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1/%E6%9D%82%E9%A2%98%E9%9B%86/%E6%B5%8B%E8%AF%95/",
+            "title": "测试",
+            "date_published": "2025-07-12T13:24:01.000Z",
+            "content_html": "<p>测试测试</p>\n",
+            "tags": [
+                "程序设计",
+                "杂题集",
+                "markdown",
+                "STL",
+                "Div2"
+            ]
+        },
+        {
             "id": "http://duoxichangan.github.io/2025/07/10/%E5%AD%A6%E4%B9%A0%E5%AD%A6%E4%B9%A0%E6%88%91%E7%88%B1%E5%AD%A6%E4%B9%A0/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/functions%E5%9F%BA%E7%A1%80%E5%87%BD%E6%95%B0/",
             "url": "http://duoxichangan.github.io/2025/07/10/%E5%AD%A6%E4%B9%A0%E5%AD%A6%E4%B9%A0%E6%88%91%E7%88%B1%E5%AD%A6%E4%B9%A0/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/functions%E5%9F%BA%E7%A1%80%E5%87%BD%E6%95%B0/",
             "title": "functions基础函数",
@@ -266,20 +280,6 @@
                 "概率论",
                 "样本",
                 "抽样"
-            ]
-        },
-        {
-            "id": "http://duoxichangan.github.io/2025/05/14/%E5%AD%A6%E4%B9%A0%E5%AD%A6%E4%B9%A0%E6%88%91%E7%88%B1%E5%AD%A6%E4%B9%A0/%E6%A6%82%E7%8E%87%E8%AE%BA/%E5%A4%A7%E6%95%B0%E5%AE%9A%E5%BE%8B%E5%8F%8A%E4%B8%AD%E5%BF%83%E6%9E%81%E9%99%90%E5%AE%9A%E7%90%86/",
-            "url": "http://duoxichangan.github.io/2025/05/14/%E5%AD%A6%E4%B9%A0%E5%AD%A6%E4%B9%A0%E6%88%91%E7%88%B1%E5%AD%A6%E4%B9%A0/%E6%A6%82%E7%8E%87%E8%AE%BA/%E5%A4%A7%E6%95%B0%E5%AE%9A%E5%BE%8B%E5%8F%8A%E4%B8%AD%E5%BF%83%E6%9E%81%E9%99%90%E5%AE%9A%E7%90%86/",
-            "title": "大数定律及中心极限定理",
-            "date_published": "2025-05-14T11:56:52.000Z",
-            "content_html": "<p><img data-src=\"https://i.postimg.cc/x1P0Cgzk/3-15.png\" alt=\"\" /><br />\n<img data-src=\"https://i.postimg.cc/fbTM0Xc8/3-16.png\" alt=\"\" /></p>\n",
-            "tags": [
-                "学习学习我爱学习",
-                "概率论",
-                "概率论",
-                "大数定律",
-                "中心极限定理"
             ]
         }
     ]
