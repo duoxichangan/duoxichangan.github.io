@@ -10,21 +10,8 @@
         </author>
         <description></description>
         <language>zh-CN</language>
-        <pubDate>Sat, 12 Jul 2025 21:24:01 +0800</pubDate>
-        <lastBuildDate>Sat, 12 Jul 2025 21:24:01 +0800</lastBuildDate>
-        <item>
-            <guid isPermalink="true">http://duoxichangan.github.io/2025/07/12/%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1/%E6%9D%82%E9%A2%98%E9%9B%86/%E6%B5%8B%E8%AF%95/</guid>
-            <title>测试</title>
-            <link>http://duoxichangan.github.io/2025/07/12/%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1/%E6%9D%82%E9%A2%98%E9%9B%86/%E6%B5%8B%E8%AF%95/</link>
-            <category term="程序设计" scheme="http://duoxichangan.github.io/categories/%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1/" />
-            <category term="杂题集" scheme="http://duoxichangan.github.io/categories/%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1/%E6%9D%82%E9%A2%98%E9%9B%86/" />
-            <category term="markdown" scheme="http://duoxichangan.github.io/tags/markdown/" />
-            <category term="STL" scheme="http://duoxichangan.github.io/tags/STL/" />
-            <category term="Div2" scheme="http://duoxichangan.github.io/tags/Div2/" />
-            <pubDate>Sat, 12 Jul 2025 21:24:01 +0800</pubDate>
-            <description><![CDATA[ &lt;p&gt;测试测试&lt;/p&gt;
- ]]></description>
-        </item>
+        <pubDate>Thu, 10 Jul 2025 19:07:56 +0800</pubDate>
+        <lastBuildDate>Thu, 10 Jul 2025 19:07:56 +0800</lastBuildDate>
         <item>
             <guid isPermalink="true">http://duoxichangan.github.io/2025/07/10/%E5%AD%A6%E4%B9%A0%E5%AD%A6%E4%B9%A0%E6%88%91%E7%88%B1%E5%AD%A6%E4%B9%A0/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/functions%E5%9F%BA%E7%A1%80%E5%87%BD%E6%95%B0/</guid>
             <title>functions基础函数</title>
@@ -2038,7 +2025,6 @@ dp[i][u] = \max_{(u \to v) \in E} \left( dp[i - 1][v] \times d_{u \to v} \right)
 &gt; 对于这种超大数据范围的==图论题==、最短路 / $DFS$ / $BFS$ 走不通的题目
 &gt; 其实基本上不用考虑图论里的算法了，可以考虑下 $DP$，特别是这种走若干步的，基本上不太可能 $DFS$ / $BFS$ 了
 &gt; 如果题目出现连除下取整，考虑转换为乘法 + $DP$ 去做
-
 # I
 ## 题目大意
 我一天有 $n$ 个时间段，一个字符串 $s$ 描述我的日程安排
@@ -2566,6 +2552,20 @@ x_j \ge 0, j = 1, 2,3,4
 &lt;img data-src=&#34;https://i.postimg.cc/1XMHXksC/3-19.png&#34; alt=&#34;&#34; /&gt;&lt;br /&gt;
 &lt;img data-src=&#34;https://i.postimg.cc/sDDmqg4t/3-20.png&#34; alt=&#34;&#34; /&gt;&lt;br /&gt;
 &lt;img data-src=&#34;https://i.postimg.cc/Y0tRprKL/3-21.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+ ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">http://duoxichangan.github.io/2025/05/14/%E5%AD%A6%E4%B9%A0%E5%AD%A6%E4%B9%A0%E6%88%91%E7%88%B1%E5%AD%A6%E4%B9%A0/%E6%A6%82%E7%8E%87%E8%AE%BA/%E5%A4%A7%E6%95%B0%E5%AE%9A%E5%BE%8B%E5%8F%8A%E4%B8%AD%E5%BF%83%E6%9E%81%E9%99%90%E5%AE%9A%E7%90%86/</guid>
+            <title>大数定律及中心极限定理</title>
+            <link>http://duoxichangan.github.io/2025/05/14/%E5%AD%A6%E4%B9%A0%E5%AD%A6%E4%B9%A0%E6%88%91%E7%88%B1%E5%AD%A6%E4%B9%A0/%E6%A6%82%E7%8E%87%E8%AE%BA/%E5%A4%A7%E6%95%B0%E5%AE%9A%E5%BE%8B%E5%8F%8A%E4%B8%AD%E5%BF%83%E6%9E%81%E9%99%90%E5%AE%9A%E7%90%86/</link>
+            <category term="学习学习我爱学习" scheme="http://duoxichangan.github.io/categories/%E5%AD%A6%E4%B9%A0%E5%AD%A6%E4%B9%A0%E6%88%91%E7%88%B1%E5%AD%A6%E4%B9%A0/" />
+            <category term="概率论" scheme="http://duoxichangan.github.io/categories/%E5%AD%A6%E4%B9%A0%E5%AD%A6%E4%B9%A0%E6%88%91%E7%88%B1%E5%AD%A6%E4%B9%A0/%E6%A6%82%E7%8E%87%E8%AE%BA/" />
+            <category term="概率论" scheme="http://duoxichangan.github.io/tags/%E6%A6%82%E7%8E%87%E8%AE%BA/" />
+            <category term="大数定律" scheme="http://duoxichangan.github.io/tags/%E5%A4%A7%E6%95%B0%E5%AE%9A%E5%BE%8B/" />
+            <category term="中心极限定理" scheme="http://duoxichangan.github.io/tags/%E4%B8%AD%E5%BF%83%E6%9E%81%E9%99%90%E5%AE%9A%E7%90%86/" />
+            <pubDate>Wed, 14 May 2025 19:56:52 +0800</pubDate>
+            <description><![CDATA[ &lt;p&gt;&lt;img data-src=&#34;https://i.postimg.cc/x1P0Cgzk/3-15.png&#34; alt=&#34;&#34; /&gt;&lt;br /&gt;
+&lt;img data-src=&#34;https://i.postimg.cc/fbTM0Xc8/3-16.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
  ]]></description>
         </item>
     </channel>
